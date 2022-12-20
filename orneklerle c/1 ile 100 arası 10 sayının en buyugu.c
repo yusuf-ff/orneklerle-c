@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*Aybars ARSLAN*/
+
 
 int randmax(void);
 
