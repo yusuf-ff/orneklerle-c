@@ -1,7 +1,7 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN 1den 100e kadar sayilarin toplamini veren program*/
+  /* 1den 100e kadar sayilarin toplamini veren program*/
 
    int main()
    {
