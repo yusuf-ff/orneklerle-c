@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Aybars ARSLAN Bilgisayar Mühendisliği İngilizce 2.öğretim*/
+
 /*10 elemanlı dizi tanımlayın bu 10 elemanlı dizinin en büyük ve en kucuk sayilari veren program*/
 
 int main(void)
