@@ -1,7 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN Faktoriyel Hesaplayan program*/
 
    int main()
    {
