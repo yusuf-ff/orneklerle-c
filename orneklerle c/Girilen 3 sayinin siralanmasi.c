@@ -1,8 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN Sayilari Siralama Proje Odevi*/
-
   int main()
   {
       int a,b,c,eb,ek,mm; /*Degiskenlerimiz eb=en buyuk,ek=en kucuk*/
