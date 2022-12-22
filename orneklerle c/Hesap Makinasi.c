@@ -1,8 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN switch case ile 4 islem yapan program*/
-
    int main()
    {
       int a,b,sonuc;
