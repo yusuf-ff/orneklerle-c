@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*Aybars ARSLAN bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program.*/
 
 void Yaz(char a,int sayi);
 int main()
