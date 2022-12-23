@@ -1,6 +1,3 @@
-/*Aybars Arslan */
-/*Giridiginiz kelimenin bas harfini bulan program*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
