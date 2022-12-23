@@ -1,7 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN klavyeden bir Ã¶ÄŸrenciye ait bilgileri gosteren program*/
 
    int main()
    {
