@@ -1,8 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN klavyeden girilen metin uzunlugunu bulan program.*/
-
    int main()
    {
     char dizi[100];
