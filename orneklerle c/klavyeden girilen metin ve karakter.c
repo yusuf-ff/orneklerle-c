@@ -1,8 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN klavyeden girilen metin icinden yine klayvyeden girilen bir karakterin kac defa gectigini bulan program.*/
-
    int main()
    {
     char metin[100];
