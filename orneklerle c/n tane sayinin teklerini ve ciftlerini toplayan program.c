@@ -1,7 +1,6 @@
 #include <stdio.h>   //header tanimlamalari..
 #include <stdlib.h>
 
-  /*Aybars ARSLAN girilen n tane sayinin teklerini ve ciftlerini toplayan program.*/
 
    int main()
    {
