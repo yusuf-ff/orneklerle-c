@@ -1,6 +1,3 @@
-/*Aybars Arslan*/
-/*giridiginiz kelimenin tersini yazan program*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
